@@ -220,6 +220,53 @@ hr{
 	height: 100%;
 }
 
+.description_panel{
+	letter-spacing: 0;
+}
+
+.description_panel > div{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.product_share{
+	text-align: center;
+	padding:5px;
+}
+
+.btn-social > :first-child{
+	color: white;
+	font-size: 1rem;
+}
+
+a:not([href]):not([tabindex]){
+	color:white;
+}
+
+
+.btn-social-icon > :first-child{
+	font-size:1rem;
+	
+}
+
+.btn-social-icon{
+	margin: 5px;
+}
+
+.product_info button{
+	width: 100%;
+	border: none;
+}
+
+#atc{
+	background-color:#8d7059;
+}
+
+#atwl{
+	background-color:#766e69;
+}
+
+
 @media (max-width:710px){
 	.toggle-menu{
 		display:none;

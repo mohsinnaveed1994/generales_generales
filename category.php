@@ -21,7 +21,8 @@
 			</div>
 			<div class="col-md-9 product-thumbnails">
 				<?php
-					include("products.html")
+					include("product_details.html")
+					/* include("products.html") */
 				?>
 			</div>
 		</div>
