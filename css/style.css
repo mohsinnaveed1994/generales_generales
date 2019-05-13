@@ -256,6 +256,7 @@ a:not([href]):not([tabindex]){
 .product_info button{
 	width: 100%;
 	border: none;
+	color: white;
 }
 
 #atc{
@@ -266,6 +267,13 @@ a:not([href]):not([tabindex]){
 	background-color:#766e69;
 }
 
+.pd-h-clr{
+	color:#4f3f37;
+}
+
+#product-price{
+	color:#907057;
+}
 
 @media (max-width:710px){
 	.toggle-menu{
